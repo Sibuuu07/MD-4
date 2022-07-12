@@ -64,8 +64,8 @@ global.location = "India" //ur location
 global.owner = ['919337956084']
 global.ownertag = '919337956084' //ur tag number
 global.botname = 'Arctix Ai' //ur bot name
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
+global.linkz = "https://www.instagram.com/sibssssssss/" //your theme url which will be displayed on whatsapp
+global.websitex = "https://www.instagram.com/sibssssssss/" //ur website to be displayed
 global.botscript = 'https://github.com/Sibuuu07/MD-4' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🧧" //ur theme emoji
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['916909137213'] //ur premium numbers
+global.premium = ['919337956084'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
